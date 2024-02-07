@@ -1,11 +1,16 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
 
+cd, cd .., ls, mkdir, ssh
+Powershell
 2. Do you have pets? What kind?
+Yes, dog
 
 3. If you run across an error, what would your first course of action be?
+Reasses the code, see if anything looks wrong
 
 4. Funniest thing that happened to you in high school.
+I was suspended on the last day of high school
 
 5. What is a python script? (Keep it simple)
-
+Computer script used for practical applications like calculations, data processing, and task automation
 
